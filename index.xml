@@ -50,9 +50,10 @@
 \widowctrl\hyphauto
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 Reaper Scripts for Game Audio\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 This is a collection of scripts that I wrote for Reaper. Feel free to use them and share them with the game audio community. Enjoy!\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This is a collection of scripts that I wrote for Reaper. Feel free to use them and share them with the game audio community. Have fun guys!\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Sws, RealmGui, and js_ReaScriptApI extensions need to be installed for the scripts to run.\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 Installation\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 You can install these scripts using ReaPack by navigating to the This will be the name shown in ReaPack.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 You can install these scripts using ReaPack by navigating to: Extensions > ReaPack > Import Repositories Copy and Paste this link https://raw.githubusercontent.com/Afrodiaq/Afrodiaq-Reascripts/refs/heads/master/index.xml\par}
 }
 ]]></description>
   </metadata>
