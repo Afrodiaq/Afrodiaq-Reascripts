@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Afrodiaq Reascripts" commit="19271e6ed32143970bd44c12b93607c9c804c2ad">
+<index version="1" name="Afrodiaq_reaperscripts" commit="19271e6ed32143970bd44c12b93607c9c804c2ad">
   <category name="Editing">
     <reapack name="Afrodiaq - Trim Left Edge Under Mouse to Edit Cursor.lua" type="script" desc="Trim left edge of item under mouse cursor to edit cursor position and move region start if necessary">
       <metadata>
