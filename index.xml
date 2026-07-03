@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Afrodiaq Reascripts" commit="b314dc3e8e3e8d34c7fdb495c53c5e3d4f31d8b9">
+<index version="1" name="Afrodiaq Reascripts" commit="dba90fe624dbdc260e23a6d6a059e205a9a44f81">
+  <category name="Editing">
+    <reapack name="Afrodiaq - Trim Left Edge Under Mouse to Edit Cursor.lua" type="script" desc="Trim left edge of item under mouse cursor to edit cursor position and move region start if necessary">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script allows you to move the region to your edit cursor after trimming an item on the left edge.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Afrodiaq" time="2026-07-02T23:33:20Z">
+        <source main="main">https://github.com/Afrodiaq/Afrodiaq-Reascripts/raw/dba90fe624dbdc260e23a6d6a059e205a9a44f81/Editing/Afrodiaq%20-%20Trim%20Left%20Edge%20Under%20Mouse%20to%20Edit%20Cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Afrodiaq - Trim Right Edge Under Mouse to Edit Cursor.lua" type="script" desc="Trim right edge of item under mouse cursor to edit cursor position and move region end if necessary">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script allows you to move the region to your edit cursor after trimming an item on the right edge.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Afrodiaq" time="2026-07-02T23:33:20Z">
+        <source main="main">https://github.com/Afrodiaq/Afrodiaq-Reascripts/raw/dba90fe624dbdc260e23a6d6a059e205a9a44f81/Editing/Afrodiaq%20-%20Trim%20Right%20Edge%20Under%20Mouse%20to%20Edit%20Cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Xavier - Google Sheets Renamer.lua" type="script" desc="Rename selected media item and create a region with the clipboard content">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script renames the selected media item and creates a region with the clipboard content.-- Requires SWS Extension for CF_GetClipboard()\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Xavier" time="2026-07-02T23:33:20Z">
+        <source main="main">https://github.com/Afrodiaq/Afrodiaq-Reascripts/raw/dba90fe624dbdc260e23a6d6a059e205a9a44f81/Editing/Xavier%20-%20Google%20Sheets%20Renamer.lua</source>
+      </version>
+    </reapack>
+  </category>
   <category name="Example">
     <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
       <metadata>
